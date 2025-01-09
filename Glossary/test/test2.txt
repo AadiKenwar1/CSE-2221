@@ -1,0 +1,4 @@
+glossary
+a list of difficult or specialized terms, with their definitions,
+usually near the end of a book
+

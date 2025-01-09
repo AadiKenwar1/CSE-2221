@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Glossary</title>
+</head>
+<body>
+<h1>Glossary</h1>
+<hr>
+<h2><b>Index</b></h2>
+<ul>
+<li><a href="meaning.html">meaning</a></li>
+<li><a href="term.html">term</a></li>
+</ul>
+</body>
+</html>
